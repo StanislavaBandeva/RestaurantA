@@ -1,0 +1,22 @@
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\bin\Debug\net5.0\RestaurantA.BL.deps.json
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\bin\Debug\net5.0\RestaurantA.BL.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\bin\Debug\net5.0\ref\RestaurantA.BL.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\bin\Debug\net5.0\RestaurantA.BL.pdb
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\bin\Debug\net5.0\RestaurantA.Models.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\bin\Debug\net5.0\RestaurantA.Models.pdb
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.csproj.AssemblyReference.cache
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.AssemblyInfoInputs.cache
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.AssemblyInfo.cs
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.csproj.CoreCompileInputs.cache
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.csproj.CopyComplete
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\ref\RestaurantA.BL.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.pdb
+C:\Users\Stanislava\Desktop\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.csproj.AssemblyReference.cache
+C:\Users\Stanislava\Desktop\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislava\Desktop\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.AssemblyInfoInputs.cache
+C:\Users\Stanislava\Desktop\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.AssemblyInfo.cs
+C:\Users\Stanislava\Desktop\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.csproj.CoreCompileInputs.cache
+C:\Users\Stanislava\Desktop\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.dll
+C:\Users\Stanislava\Desktop\RestaurantA\RestaurantA.BL\obj\Debug\net5.0\RestaurantA.BL.pdb

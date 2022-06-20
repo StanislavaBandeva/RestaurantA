@@ -1,0 +1,12 @@
+C:\Users\Stanislava\Desktop\RestaurantA\Models\bin\Debug\net5.0\RestaurantA.Models.deps.json
+C:\Users\Stanislava\Desktop\RestaurantA\Models\bin\Debug\net5.0\RestaurantA.Models.dll
+C:\Users\Stanislava\Desktop\RestaurantA\Models\bin\Debug\net5.0\RestaurantA.Models.pdb
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\RestaurantA.Models.csproj.AssemblyReference.cache
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\RestaurantA.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\RestaurantA.Models.AssemblyInfoInputs.cache
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\RestaurantA.Models.AssemblyInfo.cs
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\RestaurantA.Models.csproj.CoreCompileInputs.cache
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\RestaurantA.Models.dll
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\refint\RestaurantA.Models.dll
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\RestaurantA.Models.pdb
+C:\Users\Stanislava\Desktop\RestaurantA\Models\obj\Debug\net5.0\ref\RestaurantA.Models.dll
